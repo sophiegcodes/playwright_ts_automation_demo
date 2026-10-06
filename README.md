@@ -162,7 +162,7 @@ I'm using it to practice designing automation that is:
 
 As I continue learning, I'll refactor existing tests, experiment with different approaches, and document useful patterns along the way.
 
-## 👩‍💻 Author
+## 👩‍💻 Author Pelin Sophie Gursoy
 
 Created as part of my journey in **QA Automation Engineering** and continuous practice with **Playwright + TypeScript**.
 
